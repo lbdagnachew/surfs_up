@@ -16,6 +16,10 @@ Software: SQLlite, Python, Flask, Jupyter Notebook
 
 
 ## June Statistics for the Temperature and Precipitation
+In summary, the temperature in Oahu is relatively the same throughout the year
+Based on the images below, the average temperature is in the low 70's - there for, the temperature does not have dramatic fluctuations throughout the year.
+By looking at the temperature results of June and December, we can prove that investing in Surf n' Shake shop will be a good business decision for our potential investor and that Oahu, Hawaii is the ideal location.
+
 ![June_temp](https://user-images.githubusercontent.com/101952961/172088742-bd3b1d8b-c224-475c-962f-cab845db219b.PNG)
 
 ## December Statistics for the Temperature and Precipitation
