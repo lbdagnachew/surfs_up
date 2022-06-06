@@ -7,15 +7,17 @@ that will convince him that this will be a successful business idea.T o analyze 
 
 ## Data Sources: 
 Data Source: hawaii.sqlite
+
 Programming Files: SurfsUp_Challenge.ipynb, climate_analysis.ipynb
+
 Data Tools: Python SQL toolkit (SQLAlchemy), Object Relational Mapper, pandas, numpy
+
 Software: SQLlite, Python, Flask, Jupyter Notebook
 
 
-****June Statistics for the Temperature and Precipitation
-
+## June Statistics for the Temperature and Precipitation
 ![June_temp](https://user-images.githubusercontent.com/101952961/172088742-bd3b1d8b-c224-475c-962f-cab845db219b.PNG)
 
-****December Statistics for the Temperature and Precipitation
+## December Statistics for the Temperature and Precipitation
 
 ![December_temp](https://user-images.githubusercontent.com/101952961/172088815-54ff0db7-2842-4639-8a9c-8d5cdb33846b.PNG)
